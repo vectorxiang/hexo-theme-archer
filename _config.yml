@@ -7,8 +7,8 @@ author: fi3ework
 signature: witness me
 # SNS
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: 642280620@qq.com
+  github: //github.com/vectorxiang
   weibo:
   # zhihu:
   # facebook:
@@ -29,9 +29,9 @@ about:
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: Vector's Blog
 # main title
-main_title: fi3ework's Studio.
+main_title: Vector's Blog
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
@@ -72,7 +72,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # favicon
-favicon: /assests/favicon.ico
+favicon: /assets/favicon.ico
 # truncate length (the default is 300)
 truncate_length:
 # enable toc
